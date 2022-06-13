@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Henrique</h1>
 <h3 align="center">DevOps and RPA developer</h3>
 
-- 🔭 I’m currently working on FGV Projetos
+- 🔭 I’m currently working on KXC Tecnologia
 
 - 🌱 I’m currently learning **Terraform, Docker, K8s**
 
