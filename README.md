@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Henrique</h1>
 <h3 align="center">DevOps and RPA developer</h3>
 
-- 🔭 I’m currently working on KXC Tecnologia
+- 🔭 I’m currently working on KXC Tecnologia as Cloud Solutions Architect
 
-- 🌱 I’m currently learning **Terraform, Docker, K8s**
+- 🌱 I’m currently learning **Golang and K8s**
 
 - 🤝 I’m collaborating on [Mentoria IAC](https://gomex.me/mentoriaiac/) 
 
