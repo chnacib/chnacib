@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for KXC as Cloud Solutions Architect
 
-- 🌱 I’m currently learning **Golang and K8s**
+- 🌱 I’m currently learning **Golang and Observability**
 
 - 🤝 I’m collaborating on [Mentoria IAC](https://gomex.me/mentoriaiac/) 
 
